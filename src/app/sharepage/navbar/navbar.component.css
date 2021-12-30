@@ -1,0 +1,16 @@
+.navbar-light .navbar-nav .nav-link.active-link{
+    color:var(--primary-color);
+    font-weight: bold;
+    text-decoration: underline;
+}
+.navbar-brand{
+    font-weight: 900;
+    color: darkslateblue;
+    font-size: xx-large;
+}
+.nav-item
+{
+    font-weight: Bold;
+    font-size: 20px;
+    
+}
